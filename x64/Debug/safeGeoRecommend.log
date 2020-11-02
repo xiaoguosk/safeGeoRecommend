@@ -1,0 +1,274 @@
+﻿  AES.cpp
+  aes_encryptor.cpp
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\aes_encryptor.cpp(48,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\aes_encryptor.cpp(69,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\aes_encryptor.cpp(72,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BasicExcelVC6.cpp
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(163,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(164,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(165,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(166,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(167,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(168,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(169,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(170,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.hpp(171,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(19,1): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1015): message : see declaration of 'wcstombs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(39,1): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1015): message : see declaration of 'wcstombs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(311,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(338,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(451,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(729,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(856,109): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(859,86): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(860,93): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(865,109): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(868,87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(869,92): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(872,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(891,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(902,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(913,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(924,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(939,1): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1015): message : see declaration of 'wcstombs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(954,1): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1015): message : see declaration of 'wcstombs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(964,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(975,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(986,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(997,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1008,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1018,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1028,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1038,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1048,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1075,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1087,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1099,30): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1113,29): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1123,35): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1135,39): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1147,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1173,32): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1185,30): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1197,30): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1239,29): warning C4267: '-=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1249,35): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1261,39): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1274,40): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1290,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1346,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1357,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1368,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1381,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1391,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1401,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1492,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1531,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1546,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1568,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1569,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1582,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1613,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1619,69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1728,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1746,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1767,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1778,38): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1779,33): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1848,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1849,62): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1995,47): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(1993,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2212,74): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2219,78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2225,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2231,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2337,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2343,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2348,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2363,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2372,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2377,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2386,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2393,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2396,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2403,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2406,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2460,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2466,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2477,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2483,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2493,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2502,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2547,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2565,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2616,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2627,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2638,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2641,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2667,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2674,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2695,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2701,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2675,1): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(927): message : see declaration of 'mbstowcs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2696,1): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1015): message : see declaration of 'wcstombs'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2722,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2741,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2829,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(2969,62): warning C4309: 'initializing': truncation of constant value
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3006,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3006,49): warning C4309: 'initializing': truncation of constant value
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3106,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3107,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3119,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3123,24): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3124,83): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3131,87): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3137,89): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3289,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3290,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3291,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3305,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3306,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3307,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3370,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3424,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3439,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3553,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3559,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3568,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3572,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3603,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3618,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3694,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3698,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3725,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3738,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3810,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3822,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3846,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3857,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3881,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3892,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3943,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(3949,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4208,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4219,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4266,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4317,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4410,35): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4424,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4426,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4436,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4438,25): warning C4805: '|=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4453,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4455,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4599,18): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4599,18): message : consider using '%zd' in the format string
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4599,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4759,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4772,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4893,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4925,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4966,84): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(4977,79): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=short
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5020,64): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5021,60): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=short
+          ]
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5128,64): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5166,56): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5174,43): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5175,64): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5204,36): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5205,41): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5206,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5220,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5221,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5246,36): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5247,41): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5248,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5264,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5265,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5271,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5272,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5284,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5285,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5323,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5324,38): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5416,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5428,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5726,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5739,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5834,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\BasicExcelVC6.cpp(5848,1): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(123): message : see declaration of 'wcscpy'
+  GeoRecommendationDynamically.cpp
+C:\Users\csxgli\Desktop\TSC_RNN\safeGeoRecommend\safeGeoRecommend\safeGeoRecommend\util.h(1,10): fatal error C1083: Cannot open include file: 'opencv2/imgproc/imgproc_c.h': No such file or directory
+  md5.cpp
+  TimerCounter.cpp
+  Generating Code...
